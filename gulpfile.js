@@ -1,5 +1,5 @@
 const gulp = require('gulp');
-const deploy = require('gulp-gh-pages');
+const ghPages = require('gulp-gh-pages');
 
 gulp.task('deploy', function() {
   return gulp.src(['./dist/**/*', '.gitignore'])
