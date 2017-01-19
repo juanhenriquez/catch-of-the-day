@@ -13,6 +13,7 @@
     "eslint-plugin-react": "^6.8.0",
     "gulp": "^3.9.1",
     "gulp-deploy-git": "^0.5.3",
+    "gulp-gh-pages": "^0.5.4",
     "react-scripts": "0.6.1",
     "stylus": "0.54.5"
   },
